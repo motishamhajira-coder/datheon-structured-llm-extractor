@@ -1,0 +1,13 @@
+﻿INVOICE
+Invoice Number: INV-2026-101
+Vendor: ABC Technologies Pvt Ltd
+Date: 20 October 2026
+
+Items:
+Python Training - 2 units at INR 5000 each
+API Setup - 1 unit at INR 2500
+
+Subtotal: INR 12500
+Tax: INR 0
+Total: INR 12500
+Currency: INR
